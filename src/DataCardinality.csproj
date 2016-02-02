@@ -37,7 +37,7 @@
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <PropertyGroup>
-    <ReferencePath>c:\program files\sas\enterpriseguide\4.2\</ReferencePath>
+    <ReferencePath>.\lib</ReferencePath>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SAS.Shared, Version=4.3.0.0, Culture=neutral, PublicKeyToken=be58efc3b934219b, processorArchitecture=MSIL">
